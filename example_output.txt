@@ -1,0 +1,40 @@
+Znaleziono pasujące 12. słowo: able
+Adres Ethereum: 0xe37D4529DE10D7Bd4Ae63dE8829309a2866cA1C8
+Stan konta: 0.0 MATIC
+Brak tokenów ERC-20.
+Brak tokenów ERC-721.
+Brak tokenów ERC-1155.
+Znaleziono pasujące 12. słowo: adult
+Adres Ethereum: 0x473d3B2A827630E038e54bCab473273ee836BB92
+Stan konta: 0.0 MATIC
+Brak tokenów ERC-20.
+Brak tokenów ERC-721.
+Brak tokenów ERC-1155.
+[...]
+Znaleziono pasujące 12. słowo: someone
+Adres Ethereum: 0xa6E1f791C07eC89432363A8b6DBf6C4323422D4A
+Stan konta: 0.0 MATIC
+Brak tokenów ERC-20.
+Brak tokenów ERC-721.
+Brak tokenów ERC-1155.
+Znaleziono pasujące 12. słowo: spin
+Adres Ethereum: 0xb80324fF3f2Ad58592A97f404386f3398ef749Ef
+Stan konta: 0.000574498346289 MATIC
+Brak tokenów ERC-20.
+Brak tokenów ERC-721.
+Tokeny ERC-1155:
+Token: 2000$ Reward, Symbol: drop-usdt.xyz, Token ID: 0, Ilość: Nieznana ilość
+Token: 5000 USDC Voucher, Symbol: Weekly Giveaways, Token ID: 0, Ilość: Nieznana ilość
+Token: Uniswap V3 Positions NFT-V1, Symbol: UNI-V3-PoS, Token ID: 0, Ilość: Nieznana ilość
+Znaleziono pasujące 12. słowo: square
+Adres Ethereum: 0xcC4903362470025edE2A23B65777B8f74e0F323e
+Stan konta: 0.0 MATIC
+Brak tokenów ERC-20.
+Brak tokenów ERC-721.
+Brak tokenów ERC-1155.
+Znaleziono pasujące 12. słowo: steel
+Adres Ethereum: 0xDFE86b1627aF85b05fd29e1518A8b083E243d3f9
+Stan konta: 0.0 MATIC
+Brak tokenów ERC-20.
+Brak tokenów ERC-721.
+[...]
