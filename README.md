@@ -14,14 +14,16 @@ git clone git@github.com/crack12wordofrutilicus.git
 
 
 2. Zainstaluj wymagane biblioteki:
+```python
 pip install requests mnemonic bip32utils eth_keys eth_utils
-
+```
 
 ## Użycie
 1. Ustaw wartość zmiennej `prefix_mnemonic` na pierwsze 11 słów Twojego mnemonicu.
 2. Uruchom skrypt:
+```bash
 python main.py
-
+```
 
 ## Debugowanie
 Aby włączyć tryb debugowania, ustaw zmienną `debug` na `True` w skrypcie. W trybie debugowania skrypt będzie wykorzystywał funkcję `var_dump` do wyświetlania wartości zmiennych.
