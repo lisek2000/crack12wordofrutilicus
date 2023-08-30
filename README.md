@@ -33,4 +33,5 @@ Ten projekt jest udostępniany na licencji MIT. Me it you, amć, amć, amć, del
 
 ## Autor
 k0lo2077 at Discord
+
 Discord User ID: 491543734006185988
